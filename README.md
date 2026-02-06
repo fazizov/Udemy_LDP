@@ -1,1 +1,1 @@
-# Udemy_LDP
+ Lakeflow Declarative Pipelines Course material
